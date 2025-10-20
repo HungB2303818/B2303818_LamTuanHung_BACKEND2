@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 const { ObjectId, ReturnDocument } = require("mongodb");
 
 class ContactService {
